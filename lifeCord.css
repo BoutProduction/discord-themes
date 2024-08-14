@@ -3,9 +3,6 @@
 	/* font, change to 'gg sans' for default discord font*/
 	--font: 'inter';
 
-	/* top left corner text */
-	--corner-text: 'lifeCord';
-
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
 	--dnd-indicator: hsl(340, 60%, 60%); /* change to #f13f43 for default red */
